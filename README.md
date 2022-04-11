@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😎 I'm a System Administrator.
+- 🌱 I’m currently learning Powershell and Azure.
+- 🔭 I’m currently working on new technologies.
 <!--
 **UGarvicu/UGarvicu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
